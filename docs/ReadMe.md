@@ -29,7 +29,7 @@ Install Python
 You can run the script using command-line arguments or by following the interactive prompts.    
 Command Line Arguments:    
 ```bash
-python main.py -i <input_path> -o <output_folder> [options]
+python .\src\unredact.py -i <input_path> -o <output_folder> [options]
 ```
 Argument Description:   
 -i, --input: to the input PDF file or a folder containing PDFs.  
