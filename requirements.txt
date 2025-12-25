@@ -1,3 +1,0 @@
-pymupdf
-pytesseract
-Pillow
