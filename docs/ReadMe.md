@@ -1,5 +1,5 @@
 # PDF Redaction Auditor (Unredactor)
-This script is designed to process PDF files to relveal what's under weak redaction methods by recoloring digital text and selectively removing black redaction boxes.   
+This script is designed to process PDF files to relveal what's under weak redaction methods by recoloring digital text and selectively removing certain unburned redaction markings  
 It works by creating a new document and re-inserting only the essential elements from the original.  
 
 ## Features
@@ -59,6 +59,7 @@ Directory Structure:
 pymupdf==1.23.26
 ``
 </pre>
+
 
 
 
